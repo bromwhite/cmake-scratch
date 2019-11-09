@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/Users/jw/projects/cmake-scratch/build",
-  "command": "/usr/bin/clang++    -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/cmake-scratch.dir/main.cpp.o -c /Users/jw/projects/cmake-scratch/main.cpp",
-  "file": "/Users/jw/projects/cmake-scratch/main.cpp"
-}
-]
